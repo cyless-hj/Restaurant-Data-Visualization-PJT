@@ -104,8 +104,18 @@
 - 마커에 지역, 상호명, 평점, 음식분류, 가격대를 보기 쉽게 나타냈다.
 
 ### 3-5. 인구와 맛집 상관관계
-![image](https://user-images.githubusercontent.com/75618206/203450338-8a060c72-664a-43e6-9b62-0aa4ea3ccbd2.png)
+![image](https://user-images.githubusercontent.com/75618206/203450395-651eb51e-dba3-418c-b3d5-3408269ca52d.png)
+- 인구와 맛집 수를 산점도로 표현
+  - X축 : 맛집 수
+  - Y축 : 인구 수
+- 인구 수가 많다고 맛집 수가 많은 것은 아니다.
 
+![image](https://user-images.githubusercontent.com/75618206/203450530-15d50b79-1de5-41c9-a218-6a16da98d36f.png)
+- Seaborn 패키지 regplot
+  - 산점도와 선형회귀분석에 의한 회귀선을 함께 나타낸다.
+   -X축 : 총 인구수
+   -Y축 : 리뷰수
+- 구 별 인구 수와 리뷰 수는 서로 상관관계가 없다고 볼 수 있다.
 
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
