@@ -33,14 +33,21 @@
   5. 서울시 자치구 별 사업체 종사자 수
   6. 서울시 소재 지하철역 주소
   7. 서울시 소재 대학교 주소
+
+### 2-2. 웹 크롤링
+- 맛집 데이터를 얻기 위해 크롤링 할 웹사이트 '망고 플레이트' 선정
+- Selenium을 이용해 구 별 맛집 데이터 동적 크롤링
+- 데이터 정제
+  - 불필요한 반복문자 삭제
+  - 예외처리를 통해 null 값 처리
+  - 데이터 병합
+
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/75618206/203446962-caaf7656-57cd-4220-8b63-2e446377ce00.png">
 <img src = "https://user-images.githubusercontent.com/75618206/203447098-0a02934f-6a2f-4bb7-9b84-62c79dc20f53.png">
 </p>
 
-### 2-2. 웹 크롤링
-- 맛집 데이터를 얻기 위해 크롤링 할 웹사이트 '망고 플레이트' 선정
-- Selenium을 이용해 구 별 맛집 데이터 동적 크롤링
+## 3. 데이터 시각화
 
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
