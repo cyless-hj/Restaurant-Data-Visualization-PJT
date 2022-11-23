@@ -78,9 +78,14 @@
 - 가격대가 높을수록 사람들은 음식이 맛있다고 느끼는 경향이 있는 것으로 보인다.
 
 ### 3-4. 가격 점수 도출
-- 가격대에 대한 분석을 진행하고자 가격점수라는 상대값을 생성
+- 가격대는 범위값, 가격대에 대한 분석을 진행하고자 가격점수라는 상대값을 생성
 - 10000원 미만에 1점 20000만원 미안에 2점 40000원 이상에 5점을 부여하여 해당되는 구별 맛집수를 곱한 후 구의 전체 맛집수로 나누어 산정
 ![image](https://user-images.githubusercontent.com/75618206/203448956-32217035-e693-41ee-afef-e69b46151b55.png)
+- 강남구의 맛집 가격대가 가장 높고 강북구가 가장 낮은 것으로 보인다.
+
+### 3-5. 기본 시각화
+![image](https://user-images.githubusercontent.com/75618206/203449150-ac22526b-baf7-4e36-992f-b99e85a0681e.png)
+- 강남구, 마포구, 용산구 순으로 맛집의 수가 많이 분포하고 있다. 
 
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
