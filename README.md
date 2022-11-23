@@ -69,5 +69,18 @@
 <img src = "https://user-images.githubusercontent.com/75618206/203448199-422de7e6-c1c6-4e6f-a73b-bd0b51226b39.png">
 </p>
 
+### 3-3. 가격대 별 평균 평점
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/75618206/203448637-be9c2b06-55cb-4399-beed-2c822c2c493a.png">
+</p>
+- 가격대별 맛집 평균점수를 바차트로 표현
+- 가격대가 높아질수록 맛집 평균점수도 비례하여 높아지는 것을 볼 수 있다.
+- 가격대가 높을수록 사람들은 음식이 맛있다고 느끼는 경향이 있는 것으로 보인다.
+
+### 3-4. 가격 점수 도출
+- 가격대에 대한 분석을 진행하고자 가격점수라는 상대값을 생성
+- 10000원 미만에 1점 20000만원 미안에 2점 40000원 이상에 5점을 부여하여 해당되는 구별 맛집수를 곱한 후 구의 전체 맛집수로 나누어 산정
+![image](https://user-images.githubusercontent.com/75618206/203448956-32217035-e693-41ee-afef-e69b46151b55.png)
+
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
