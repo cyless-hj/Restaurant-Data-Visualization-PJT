@@ -103,5 +103,9 @@
 - 지오코드를 이용하여 맛집의 주소를 위경도 좌표로 변환했고 포리움 맵을 활용해서 지도에 마커를 생성해 맛집의 분포를 표현.
 - 마커에 지역, 상호명, 평점, 음식분류, 가격대를 보기 쉽게 나타냈다.
 
+### 3-5. 인구와 맛집 상관관계
+![image](https://user-images.githubusercontent.com/75618206/203450338-8a060c72-664a-43e6-9b62-0aa4ea3ccbd2.png)
+
+
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
