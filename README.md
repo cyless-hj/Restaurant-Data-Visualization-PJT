@@ -5,7 +5,10 @@
 ## 1.	프로젝트 개요
 
 ### 1-1. 주제 선정 배경
-![image](https://user-images.githubusercontent.com/75618206/203445615-2bdd467f-60dd-49c1-ac2b-c4e28d69b146.png)
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/75618206/203445615-2bdd467f-60dd-49c1-ac2b-c4e28d69b146.png">
+</p>
+
 - 서울시는 우리나라에서 면적대비 가장 많은 인구가 살고 있고 그만큼 외식산업의 규모가 매우 크다.
 - 식당 창업에 뛰어드는 기업과 소상공인이 점점 증가하고 있는데, 포화된 산업인 만큼 창업을 계획할땐 데이터를 기반하여 창업할 위치,음식종류,음식의 가격대 등 많은 부분을 고려하고 신중히 결정해야할 필요가 있다.
 
