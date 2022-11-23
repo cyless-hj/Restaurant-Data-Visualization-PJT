@@ -73,6 +73,7 @@
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/75618206/203448637-be9c2b06-55cb-4399-beed-2c822c2c493a.png">
 </p>
+
 - 가격대별 맛집 평균점수를 바차트로 표현
 - 가격대가 높아질수록 맛집 평균점수도 비례하여 높아지는 것을 볼 수 있다.
 - 가격대가 높을수록 사람들은 음식이 맛있다고 느끼는 경향이 있는 것으로 보인다.
