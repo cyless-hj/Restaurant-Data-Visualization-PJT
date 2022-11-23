@@ -117,5 +117,7 @@
     - Y축 : 리뷰수
 - 구 별 인구 수와 리뷰 수는 서로 상관관계가 없다고 볼 수 있다.
 
+### 3-6. 활동인구 / 사업체 / 인프라
+
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
