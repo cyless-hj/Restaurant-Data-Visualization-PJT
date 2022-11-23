@@ -117,7 +117,22 @@
     - Y축 : 리뷰수
 - 구 별 인구 수와 리뷰 수는 서로 상관관계가 없다고 볼 수 있다.
 
-### 3-6. 활동인구 / 사업체 / 인프라
+### 3-6. 맛집과 활동인구 / 사업체 / 인프라 상관관계
+![image](https://user-images.githubusercontent.com/75618206/203451172-10dd4cd7-3393-416e-9ca2-98505f3fe62d.png)
+- 상관계수의 성질
+  - 상관계수의 값은 -1과 1사이의 범위에 있다.
+  - X와 Y사이에 상관이 없으면 상관계수 값은 0이다.
+  - 연구의 성격과 자료의 특성에 따라 다르나, 대체적으로 0.3 이상이면 상관관계가 존재한다고 평가
+- 맛집수와 사업체종사자수는 강한 상관관계를 가지고 있다.
+  - 사업체 종사자 수가 적을수록 맛집 수 또한 적다.
+
+![image](https://user-images.githubusercontent.com/75618206/203451390-30cdff9d-7029-4def-9ac5-751235e7bb47.png)
+- 맛집 수와 사업체 수는 꽤 큰 상관관계를  가지고 있다.
+  - 보통 사업체 수가 많은 곳에 맛집도 많이 분포한다.
+
+- 맛집 수에 영향을 미치는 요소로 주거 인구 수 보다 일하고 있는 사람의 수 즉, 활동 인구 수가 더 중요하다는 결과를 도출할 수 있었다.
+
+![image](https://user-images.githubusercontent.com/75618206/203451484-05877752-4b1b-44b3-b4d9-72d3d4210b64.png)
 
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
