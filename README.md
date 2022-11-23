@@ -87,6 +87,9 @@
 ![image](https://user-images.githubusercontent.com/75618206/203449150-ac22526b-baf7-4e36-992f-b99e85a0681e.png)
 - 강남구, 마포구, 용산구 순으로 맛집의 수가 많이 분포하고 있다.
 
+![image](https://user-images.githubusercontent.com/75618206/203449992-9a7c477b-ff81-4473-859d-ba351d4a0afb.png)
+- 위 그래프와 마찬가지로 강남구, 용산구, 마포구가 진하게 표시된 것을 확인할 수 있고 서울 외곽일수록 색이 희미해는 것을 볼 수 있다.
+
 ![image](https://user-images.githubusercontent.com/75618206/203449254-20326955-8d4b-4810-9ab8-933469975343.png)
 - 카페디저트가 가장 많은 수를 차지하고 있다.
 
@@ -95,6 +98,9 @@
 - 가격대별 평균 평점 그래프를 통해 가격대가 높아질수록 평점이 높은 것을 확인했지만, 가격대가 올라갈수록 맛집의 개수는 줄어든다.
 
 ![image](https://user-images.githubusercontent.com/75618206/203449750-55c48bfa-d2e2-45a0-9348-05f3244e1cf4.png)
+- 지오코드 : 주소를 이용하여 위경도 좌표를 반환하는 메소드
+- 지오코드를 이용하여 맛집의 주소를 위경도 좌표로 변환했고 포리움 맵을 활용해서 지도에 마커를 생성해 맛집의 분포를 표현.
+- 마커에 지역, 상호명, 평점, 음식분류, 가격대를 보기 쉽게 나타냈다.
 
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
