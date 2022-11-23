@@ -49,5 +49,19 @@
 
 ## 3. 데이터 시각화
 
+### 3-1. 카테고리
+1. 기본 시각화
+2. 인구
+3. 활동인구 / 사업체/ 인프라
+4. 소득(GDP)
+
+### 3-2. 맛집 선정
+![image](https://user-images.githubusercontent.com/75618206/203447864-a66c8888-bf39-4bf7-b347-9d016e797fab.png)
+- 각 가격대의 맛 평가 비율을 파이차트 Subplot으로 한눈에 표현해 보았을 때, 맛있다, 괜찮다, 별로다 수의 비율이 비슷하고 모든 가격대에서 90%에 가까운 비율이 맛있다라고 평가했다.
+- 따라서 이대로 데이터를 활용할 수 없다고 판단, 가중치를 적용하여 새로운 평점 산출
+  - (별점 * 맛있다 수 - 2 * 별점 * 별로다 수) / 전체 리뷰수
+- 이렇게 산출된 평점을 적용해 3.5이상의 평점을 받은 식당을 자체적으로 맛집으로 선정.
+![image](https://user-images.githubusercontent.com/75618206/203448199-422de7e6-c1c6-4e6f-a73b-bd0b51226b39.png)
+
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
