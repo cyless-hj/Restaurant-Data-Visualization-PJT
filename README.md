@@ -113,8 +113,8 @@
 ![image](https://user-images.githubusercontent.com/75618206/203450530-15d50b79-1de5-41c9-a218-6a16da98d36f.png)
 - Seaborn 패키지 regplot
   - 산점도와 선형회귀분석에 의한 회귀선을 함께 나타낸다.
-   -X축 : 총 인구수
-   -Y축 : 리뷰수
+    - X축 : 총 인구수
+    - Y축 : 리뷰수
 - 구 별 인구 수와 리뷰 수는 서로 상관관계가 없다고 볼 수 있다.
 
 ## 프로젝트 결과
