@@ -94,6 +94,7 @@
 - 만원 미만의 맛집이 가장 많고 가격대가 올라갈수록 맛집의 개수가 줄어드는 경향을 확인할 수 있다. 
 - 가격대별 평균 평점 그래프를 통해 가격대가 높아질수록 평점이 높은 것을 확인했지만, 가격대가 올라갈수록 맛집의 개수는 줄어든다.
 
+![image](https://user-images.githubusercontent.com/75618206/203449750-55c48bfa-d2e2-45a0-9348-05f3244e1cf4.png)
 
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
