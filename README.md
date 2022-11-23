@@ -85,7 +85,15 @@
 
 ### 3-5. 기본 시각화
 ![image](https://user-images.githubusercontent.com/75618206/203449150-ac22526b-baf7-4e36-992f-b99e85a0681e.png)
-- 강남구, 마포구, 용산구 순으로 맛집의 수가 많이 분포하고 있다. 
+- 강남구, 마포구, 용산구 순으로 맛집의 수가 많이 분포하고 있다.
+
+![image](https://user-images.githubusercontent.com/75618206/203449254-20326955-8d4b-4810-9ab8-933469975343.png)
+- 카페디저트가 가장 많은 수를 차지하고 있다.
+
+![image](https://user-images.githubusercontent.com/75618206/203449318-3875876b-d392-4c8f-9a51-ff85943cdc0f.png)
+- 만원 미만의 맛집이 가장 많고 가격대가 올라갈수록 맛집의 개수가 줄어드는 경향을 확인할 수 있다. 
+- 가격대별 평균 평점 그래프를 통해 가격대가 높아질수록 평점이 높은 것을 확인했지만, 가격대가 올라갈수록 맛집의 개수는 줄어든다.
+
 
 ## 프로젝트 결과
 [데이터 시각화 Viewer Link](https://nbviewer.org/github/cyless-hj/Restaurant-Data-Visualization-PJT/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B5%9C%EC%A2%85%EB%B3%B8.ipynb)
